@@ -7,8 +7,8 @@ export const membresEquipe = [
   {
     id: 'julmice-carl-vert',
     nom: 'Julmice Carl Vert',
-    role: 'Intégration Sémantique, Charte Visuelle & Accessibilité',
-    bio: "Responsable de l'Ensemble de tâches 1 : structure HTML5 sémantique de tous les composants, mise en page responsive en CSS pur (Flexbox/Grid, sans framework), règles d'accessibilité numérique (contrastes, ARIA, labels) et bascule des modes sombre/clair.",
+    role: 'Développement Serveur, API & DevOps',
+    bio: "Responsable de l'Ensemble de tâches 3 : serveur Node.js/Express, route API POST /api/contact, persistance des messages en JSON, gestion du dépôt Git (revues, fusions) et déploiement continu sur Railway.",
     githubLogin: 'ABC2284',
     photo: null,
     competences: ['HTML5 sémantique', 'CSS Grid / Flexbox', 'Accessibilité (a11y)', 'Design de thème'],
@@ -25,8 +25,8 @@ export const membresEquipe = [
   {
     id: 'beneche-alendear-yves-ckerry',
     nom: 'Bénèche Alendear Yves-Ckerry',
-    role: 'Développement Serveur, API & DevOps',
-    bio: "Responsable de l'Ensemble de tâches 3 : serveur Node.js/Express, route API POST /api/contact, persistance des messages en JSON, gestion du dépôt Git (revues, fusions) et déploiement continu sur Railway.",
+    role: 'Intégration Sémantique, Charte Visuelle & Accessibilité',
+    bio: "Responsable de l'Ensemble de tâches 1 : structure HTML5 sémantique de tous les composants, mise en page responsive en CSS pur (Flexbox/Grid, sans framework), règles d'accessibilité numérique (contrastes, ARIA, labels) et bascule des modes sombre/clair.",
     githubLogin: 'yvesckerry',
     photo: '/equipe/beneche-alendear.jpeg',
     competences: ['Node.js / Express', 'API REST', 'Git / GitHub', 'Déploiement Railway'],
