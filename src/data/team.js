@@ -27,7 +27,7 @@ export const membresEquipe = [
     nom: 'Bénèche Alendear Yves-Ckerry',
     role: 'Développement Serveur, API & DevOps',
     bio: "Responsable de l'Ensemble de tâches 3 : serveur Node.js/Express, route API POST /api/contact, persistance des messages en JSON, gestion du dépôt Git (revues, fusions) et déploiement continu sur Railway.",
-    githubLogin: 'Yvesckerry',
+    githubLogin: 'yvesckerry',
     photo: '/equipe/beneche-alendear.jpeg',
     competences: ['Node.js / Express', 'API REST', 'Git / GitHub', 'Déploiement Railway'],
   },
