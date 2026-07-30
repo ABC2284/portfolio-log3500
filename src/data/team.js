@@ -1,7 +1,7 @@
 export const membresEquipe = [
   {
-    id: 'julmice-carl-vert',
-    nom: 'Julmice Carl Vert',
+    id: 'julmice-carl-verlet',
+    nom: 'Julmice Carl Verlet',
     role: 'Développement Serveur, API & DevOps',
     bio: "Responsable de l'Ensemble de tâches 3 : serveur Node.js/Express, route API POST /api/contact, persistance des messages en JSON, gestion du dépôt Git (revues, fusions) et déploiement continu sur Railway.",
     githubLogin: 'ABC2284',
