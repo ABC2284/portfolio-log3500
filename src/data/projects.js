@@ -1,5 +1,4 @@
-// Contenu basé sur des projets réels — ajuste les descriptions,
-// dates et liens (GitHub / démo) selon tes propres dépôts.
+
 export const categories = ['Tous', 'Cours LOG3500', 'Freelance', 'Jeu vidéo', 'Graphisme 3D'];
 
 export const projets = [
