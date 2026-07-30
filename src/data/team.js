@@ -1,8 +1,3 @@
-// Équipe de 3 (section 2.A du PDF de consignes) : chaque membre correspond
-// à un "Ensemble de tâches" précis, évalué individuellement à l'oral.
-// ⚠️ Remplace chaque `githubLogin` par le vrai identifiant GitHub de la
-// personne concernée — sinon la page Équipe affichera une erreur de fetch
-// pour cette carte.
 export const membresEquipe = [
   {
     id: 'julmice-carl-vert',
